@@ -82,8 +82,8 @@ Actively seeking **Senior Data Engineer / Analytics Engineer / GTM Data Analyst*
 
 ## Certifications
 
-** AWS Certified Solutions Architect – Associate
-** Google Data Analytics Professional Certificate
+* AWS Certified Solutions Architect – Associate
+* Google Data Analytics Professional Certificate
 
 ---
 
