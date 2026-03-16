@@ -38,11 +38,11 @@ Actively seeking **Senior Data Engineer / Analytics Engineer / GTM Data Analyst*
 
 **This project directly solves**
 
-*Where in the funnel are we losing the most deals?
-*Which products, managers and regions perform best?
-*Which active deals are most likely to close and why?
-*How has revenue trended quarter over quarter?
-
+* Where in the funnel are we losing the most deals?
+* Which products, managers and regions perform best?
+* Which active deals are most likely to close and why?
+* How has revenue trended quarter over quarter?
+---
 ### GTM Analysis
 
 **(Python | SQL | Power BI)**
