@@ -89,8 +89,8 @@ Actively seeking **Senior Data Engineer / Analytics Engineer / GTM Data Analyst*
 
 ## Education
 
-**M.S. in AI & Business Analytics** – University of South Florida (2025)
-**B.S. in Computer Science** – JP Institute of Engineering, India (2014)
+** M.S. in AI & Business Analytics** – University of South Florida (2025)
+** B.S. in Computer Science** – JP Institute of Engineering, India (2014)
 
 ---
 
