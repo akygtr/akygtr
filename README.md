@@ -1,26 +1,26 @@
-## 🚀 Akshara Kumari
+## Akshara Kumari
 
-📍 San Jose, CA | 📧 [kuakshara28@gmail.com](mailto:kuakshara28@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/akshara-kumari) | 💻 [GitHub](https://github.com/akygtr)
+San Jose, CA |  [kuakshara28@gmail.com](mailto:kuakshara28@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/akshara-kumari) |  [GitHub](https://github.com/akygtr)
 
 ---
 
-### 👋 Welcome to My GitHub!
+### Welcome to My GitHub!
 
 Hello! I'm **Akshara**, a **Senior Business Data Engineer** with 7+ years of experience delivering executive-ready analytics and building scalable, production-grade data pipelines.
 
 I specialize in transforming raw, multi-source data into **trusted analytics datasets** that power leadership decisions across Operations, GTM, and Engineering teams.
 
-✅ Batch & streaming pipelines (Databricks, Spark)
-✅ Cloud-native data platforms (AWS, Snowflake, Redshift)
-✅ Strong SQL, Python, BI, and data quality practices
-🔍 Actively seeking **Senior Data Engineer / Analytics Engineer / GTM Data Analyst** roles
+Batch & streaming pipelines (Databricks, Spark)
+Cloud-native data platforms (AWS, Snowflake, Redshift)
+Strong SQL, Python, BI, and data quality practices
+Actively seeking **Senior Data Engineer / Analytics Engineer / GTM Data Analyst** roles
 
 ---
 
-## 🛠️ Technologies & Skills
+## Technologies & Skills
 
-### 💡 Core Expertise
+### Core Expertise
 
 * **Data Engineering:** Databricks, PySpark, Amazon MWAA (Airflow)
 * **Streaming:** Spark Structured Streaming, AWS Kinesis Firehose
@@ -32,9 +32,18 @@ I specialize in transforming raw, multi-source data into **trusted analytics dat
 
 ---
 
-## 📌 Featured Projects (From My CV)
+## Featured Projects (From My CV)
+### CRM FUNNEL ANALYSIS
+**(Python 3.10 | Pandas | Matplotlib | Seaborn | Scikit-learn | XGBoost | Jupyter Notebook )**
 
-### 📊 GTM Analysis
+**This project directly solves**
+
+*Where in the funnel are we losing the most deals?
+*Which products, managers and regions perform best?
+*Which active deals are most likely to close and why?
+*How has revenue trended quarter over quarter?
+
+### GTM Analysis
 
 **(Python | SQL | Power BI)**
 
@@ -44,7 +53,7 @@ I specialize in transforming raw, multi-source data into **trusted analytics dat
 
 ---
 
-### 📉 Churn Analysis
+### Churn Analysis
 
 **(Python | SQL | Power BI)**
 
@@ -54,7 +63,7 @@ I specialize in transforming raw, multi-source data into **trusted analytics dat
 
 ---
 
-### 🤖 Airline Bird Strike Cost Prediction
+### Airline Bird Strike Cost Prediction
 
 **(Machine Learning)**
 
@@ -63,63 +72,32 @@ I specialize in transforming raw, multi-source data into **trusted analytics dat
 
 ---
 
-### 📈 North American Tech Sector & AI Impact Analysis (2020–2025)
+### North American Tech Sector & AI Impact Analysis (2020–2025)
 
 **(Tableau)**
 
 * Analyzed the impact of AI on the North American tech sector.
 * Built Tableau dashboards to visualize trends and long-term growth patterns.
+---
+
+## Certifications
+
+**AWS Certified Solutions Architect – Associate**
+**Google Data Analytics Professional Certificate**
 
 ---
 
-## ⚙️ Production Data Engineering Work (Professional Experience Highlights)
+## Education
 
-### 🔁 Batch ETL Pipelines on AWS + Databricks
-
-* Built batch pipelines using **Databricks (PySpark)** ingesting data from **Amazon S3 (via Kinesis Firehose)**.
-* Transformed and loaded curated datasets into **Snowflake and Amazon Redshift** for analytics consumption.
+**M.S. in AI & Business Analytics** – University of South Florida (2025)
+**B.S. in Computer Science** – JP Institute of Engineering, India (2014)
 
 ---
 
-### ⏱️ Orchestration & Reliability with Amazon MWAA (Airflow)
+## Let’s Connect!
 
-* Orchestrated batch and streaming workflows using **Amazon MWAA (Airflow)** with dependencies, retries, and data quality checks.
-* Stabilized 10+ production pipelines and reduced recurring pipeline failures.
+LinkedIn: [https://www.linkedin.com/in/akshara-kumari](https://www.linkedin.com/in/akshara-kumari)
+GitHub: [https://github.com/akygtr](https://github.com/akygtr)
+Email: [kuakshara28@gmail.com](mailto:kuakshara28@gmail.com)
 
----
-
-### ⚡ Near Real-Time Streaming Pipelines
-
-* Implemented **Spark Structured Streaming** over **AWS Kinesis** to enable near real-time analytics.
-* Reduced data latency from minutes to seconds for monitoring use cases.
-
----
-
-### 🚀 Performance Optimization Using Redis
-
-* Implemented **AWS ElastiCache (Redis)** for caching frequently used transformation logic and reference lookups.
-* Reduced per-run pipeline latency and improved end-to-end SLA adherence for production pipelines.
-
----
-
-## 📜 Certifications
-
-* 🏅 **AWS Certified Solutions Architect – Associate**
-* 🏅 **Google Data Analytics Professional Certificate**
-
----
-
-## 🎓 Education
-
-🎓 **M.S. in AI & Business Analytics** – University of South Florida (2025)
-🎓 **B.S. in Computer Science** – JP Institute of Engineering, India (2014)
-
----
-
-## 🤝 Let’s Connect!
-
-🔗 LinkedIn: [https://www.linkedin.com/in/akshara-kumari](https://www.linkedin.com/in/akshara-kumari)
-💻 GitHub: [https://github.com/akygtr](https://github.com/akygtr)
-📧 Email: [kuakshara28@gmail.com](mailto:kuakshara28@gmail.com)
-
-✨ *Open to senior data engineering, analytics engineering, and GTM data roles. Always happy to collaborate on real-world data platforms and analytics systems.*
+*Open to senior data engineering, analytics engineering, and GTM data roles. Always happy to collaborate on real-world data platforms and analytics systems.*
